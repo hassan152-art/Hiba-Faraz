@@ -5,7 +5,7 @@ export const SITE = {
   handle: "@h_i_b_a_f_a_r_a_z",
   email: "hello@example.com", // TODO: real email
   whatsapp: "923001234567", // TODO: number with country code, no +
-  hero: "Kaam, dost aur rozmarra ki zindagi, reels mein.",
+  hero: "Relatable stories from Karachi, one reel at a time.",
   sub: "Digital creator from Karachi. I make relatable short videos and brand promotions in Urdu and English.",
   about: [
     "I'm Hiba, a digital creator based in Karachi. My reels start from small, real moments: a long work day, a late night drive with friends, the conversation everyone has but nobody posts.",
